@@ -10,4 +10,4 @@ If you encounter a bug with SPM, please let us know by opening an [issue](https:
 
 To propose a change in one of the repositories, please open a [pull request](https://docs.github.com/en/pull-requests).
 
-Please remember to check our [Community Guidelines](../CODE_OF_CONDUCT.md) before contributing.
+Please remember to check our [Community Guidelines](CODE_OF_CONDUCT.md) before contributing.
