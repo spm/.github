@@ -16,6 +16,14 @@ Repositories of the various versions of SPM:
 - [SPM5 Releases](https://github.com/spm/spm5)
 - [SPM99 Releases](https://github.com/spm/spm99)
 
+## Other repositories of interest :bulb:
+
+- [SPM Notebooks](https://github.com/spm/spm-notebooks)
+- [SPM Containers](https://github.com/spm/spm-docker)
+- [SPM Patches for Octave](https://github.com/spm/spm-octave)
+- [SPM in Julia](https://github.com/spm/SPM.jl)
+- [SPM docs](https://github.com/spm/spm-docs)
+
 ## Help :book:
 
 - [Documentation and Tutorials](https://www.fil.ion.ucl.ac.uk/spm/doc/)
@@ -24,8 +32,8 @@ Repositories of the various versions of SPM:
 
 ## Contributing :handshake:
 
-If you encounter a bug with SPM, please let us know by opening an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) with a description of the problem you are facing, reproduction steps, and any logs you might have. This is also the place to request a new feature. You can also contact us directly at fil.spm@ucl.ac.uk.
+If you encounter a bug with SPM, please let us know by opening an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) with a description of the problem you are facing, reproduction steps, and any logs you might have. This is also the place to request a new feature. If you prefer, you can also contact us directly at fil.spm@ucl.ac.uk.
 
-To propose a change in one of the repositories, please open a [pull request](https://docs.github.com/en/pull-requests).
+To propose a change in one of the repositories, please open a [pull request](https://docs.github.com/en/pull-requests). The development of SPM takes place [here](https://github.com/spm/spm).
 
 Please remember to check our [Community Guidelines](CODE_OF_CONDUCT.md) before contributing.
