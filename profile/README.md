@@ -22,7 +22,7 @@ Repositories of the various versions of SPM:
 - [SPM Containers](https://github.com/spm/spm-docker)
 - [SPM Patches for Octave](https://github.com/spm/spm-octave)
 - [SPM in Julia](https://github.com/spm/SPM.jl)
-- [SPM docs](https://github.com/spm/spm-docs)
+- [SPM Docs](https://github.com/spm/spm-docs)
 
 ## Help :book:
 
@@ -34,6 +34,6 @@ Repositories of the various versions of SPM:
 
 If you encounter a bug with SPM, please let us know by opening an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) with a description of the problem you are facing, reproduction steps, and any logs you might have. This is also the place to request a new feature. If you prefer, you can also contact us directly at fil.spm@ucl.ac.uk.
 
-To propose a change in one of the repositories, please open a [pull request](https://docs.github.com/en/pull-requests). The development of SPM takes place [here](https://github.com/spm/spm).
+To propose a change in one of the repositories, please open a [pull request (PR)](https://docs.github.com/en/pull-requests). The development of SPM takes place [in this repository](https://github.com/spm/spm) so this is likely to be the place to open a new PR. If this is your first ever, don't worry, you just need to [create a GitHub account](https://github.com/signup) and follow the instructions from [GitHub](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) or ["First Contributions"](https://github.com/firstcontributions/first-contributions).
 
 Please remember to check our [Community Guidelines](CODE_OF_CONDUCT.md) before contributing.
