@@ -18,6 +18,7 @@ Repositories of the various versions of SPM:
 
 ## Other repositories of interest :bulb:
 
+- [SPM Toolboxes](https://github.com/spm-toolboxes/)
 - [SPM Notebooks](https://github.com/spm/spm-notebooks)
 - [SPM Containers](https://github.com/spm/spm-docker)
 - [SPM Patches for Octave](https://github.com/spm/spm-octave)
