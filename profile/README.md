@@ -8,7 +8,7 @@ The [SPM software](https://www.fil.ion.ucl.ac.uk/spm/) package has been designed
 
 ## SPM Software :floppy_disk:
 
-The development of the SPM software takes place in the `spm` repository. This is the place to interact with the SPM development team, report issues and open pull requests.
+The development of the SPM software takes place in the [`spm`](https://github.com/spm/spm) repository. This is the place to interact with the [SPM development team](https://github.com/spm/spm/graphs/contributors), [report issues](https://github.com/spm/spm/issues/new/choose) and [open pull requests](https://github.com/spm/spm/compare).
 
 - [Development Version of SPM](https://github.com/spm/spm)
 
@@ -30,7 +30,7 @@ Previous releases of the software are available in dedicated repositories:
 
 ## Help :book:
 
-- [Documentation and Tutorials](https://www.fil.ion.ucl.ac.uk/spm/doc/)
+- [Documentation and Tutorials](https://www.fil.ion.ucl.ac.uk/spm/docs/)
 - [Help Discussion List](https://www.fil.ion.ucl.ac.uk/spm/support/)
 - [Educational Short Courses](https://www.fil.ion.ucl.ac.uk/spm/course/)
 
